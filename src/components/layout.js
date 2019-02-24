@@ -6,7 +6,7 @@ import bio from './bio';
 
 import { rhythm, scale } from "../utils/typography"
 
-import '/Layout.css';
+import '/layout.css';
 
 class Layout extends React.Component {
   render() {
