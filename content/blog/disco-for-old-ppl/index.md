@@ -1,7 +1,7 @@
 ---
 title: Disco for Old People
-date: "2019-02-24T22:40:32.169Z"
-description: "Our first post!"
+date: 2019-02-24T22:40:32.169Z
+description: Our first post!
 ---
 
 
