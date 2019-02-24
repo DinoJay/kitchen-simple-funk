@@ -1,7 +1,7 @@
 ---
 title: Disco for Old People
 date: 2019-02-24T22:40:32.169Z
-description: Our first post!
+description: I'm Jan 30 years old, born in '88 and my colleague Stephan is 29 born one year later. We like music...
 ---
 
 
