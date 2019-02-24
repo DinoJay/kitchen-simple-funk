@@ -1,11 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import '../globalStyles.css';
 
 import bio from './bio';
 
 import { rhythm, scale } from "../utils/typography"
+
+import '/Layout.css';
 
 class Layout extends React.Component {
   render() {

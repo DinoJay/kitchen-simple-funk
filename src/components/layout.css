@@ -10,13 +10,6 @@
     /* text-shadow: 0 0 0 black; */
  }
 
-@font-face {
-    font-family: "unicode";
-    src: url("https://unicode-table.com/fonts/u/u1f000.woff") format('woff');
-    /* font-weight: bold; */
-}
-
-
 
  h1,h2,h3,h4,h5 {
     font-family: 'Coming Soon', cursive;
