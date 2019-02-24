@@ -24,6 +24,7 @@ class Layout extends React.Component {
           }}
         >
           <Link
+            className="font-bold"
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
@@ -54,7 +55,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-      Kitchen / <span style={{color: 'tomato'}}>Funk</span>
+          Kitchen / <span style={{color: 'tomato'}}>Funk</span>
           </Link>
         </h3>
       )
