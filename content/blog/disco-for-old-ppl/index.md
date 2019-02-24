@@ -1,10 +1,11 @@
 ---
 title: Disco for Old People
 date: "2019-02-24T22:40:32.169Z"
+description: "Our first post!"
 ---
 
 
-I'm Jan 30 years old, born in '88 my colleague Stephan is 29 born one year later. We like music, sometimes too much. We listen to it while fighting with our Phd topics. Our days are spent  by digging through the vast world of music on the internet trying to find the one hidden gem. On other days we even eat from it quite literally and prepare a radio show (you witness it right now).
+I'm Jan 30 years old, born in '88 and my colleague Stephan is 29 born one year later. We like music, sometimes too much. We listen to it while fighting with our Phd topics. Our days are spent  by digging through the vast world of music on the internet trying to find the one hidden gem. On other days we even eat from it quite literally and prepare a radio show (you witness it right now).
 
 > This is the first post to commemorate our radio show which happens monthly on Xlair radio. Don't expect anything
 > professional. We are bloody amateurs without a real agenda except for our conviction that our fascination for
@@ -22,7 +23,7 @@ Our first topic from our analogue music cuisine is Disco which is really somethi
 But now this genre  is celebrating a comeback. Paradoxically enough I feel a bit old to explain you why. When going into clubs, I often feel touched to hear all these tracks I listened alone in my room getting finally aired in public. I can't even fully enjoy it because it seems so surreal! Young people around me crying to Donna Summer or [Sylvester](https://www.popmatters.com/167895-queen-of-disco-the-legend-of-sylvester-2495781452.html)
 I really ask myself how do they got into that? The idea of the dancefloor as a space to be free was the big dream for a generation of young dancers. It did not matter if you are rich or poor, black or white, gay or straight. In the repetition the beat people experienced freedom perhaps for the first time in their life. But in retrospect the Disco movement has failed just as the [Hippies](https://www.urbandictionary.com/define.php?term=NTAH) or Punks did. Its early idealism was soon to be caught by reality. Big Money, drug addiction sex work and AIDS found their way to the dancefloor. Young people today don't realize this, they were never part of the scene. The only thing which is remembered are the songs, these long extended percussive workouts full of funk, soul and the cry for freedom. On Youtube, some Disco tracks have more than 1 million plays which is impressive because they are tools for DJs not meant to be played on a smartphone with these little ear plugs. Some people say that Disco is dead because it is decontextualized and reappropriated from its origin which was marginal, black and gay, thereby losing its soul and serving the big money machine of capitalism. Others say that Disco is still alive after all these years and creating a narrative for new artists, club goers and listeners.
 
-As life is, the matter is complicated. But when I'm feeling down and alone Disco kicks my ass and frees my mind. It makes me move forward and shows me what's possible in life.
+As life is, the matter is complicated. But when I'm feeling down and alone Disco kicks my ass and frees my mind. It makes me move forward and shows me what's possible in life. I hope for you, too. If not just listen to our show below:
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/574693548&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 

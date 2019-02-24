@@ -54,7 +54,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+      Kitchen / <span style={{color: 'tomato'}}>Funk</span>
           </Link>
         </h3>
       )
