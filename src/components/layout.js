@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-// import './styles.css';
+import '../globalStyles.css';
 
 import bio from './bio';
 

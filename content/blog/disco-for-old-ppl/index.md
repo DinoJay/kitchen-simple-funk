@@ -12,7 +12,7 @@ I'm Jan 30 years old, born in '88 and my colleague Stephan is 29 born one year l
 > music is worth spreading (it comes straight from the heart)!
 
 
-Our first topic from our analogue music cuisine is Disco which is really something special for me because it helped through a lot of difficult moments in my youth when growing up in some rural area in Germany. In the beginning, Disco was not more than a word floating around in the media like an old car nobody wants to drive anymore.  It had the same smell as the seats which were old, dusty, moist and too soft. Its echos I found in some antiquated television shows which used it often as a backing track for some poorly executed action scenes. In record stores Disco music was always put in crates on the floor shelves which were hard to reach and sold for nothing more than a few euros.
+Our first topic from our analogue music cuisine is Disco which is really something special for me because it helped through a lot of difficult moments in my youth when growing up in some rural area in Germany. In the beginning, Disco was not more than a word floating around in the media like an old car nobody wants to drive anymore.  It had the same smell as the seats which were old, dusty, moist and too soft. Its echos I found in some antiquated television shows which used it often as a backing track for some poorly executed action scenes. In record stores Disco music was always put in crates on the floor which were hard to reach and sold for nothing more than a few euros.
 
 <iframe src="https://giphy.com/embed/1PkxzVZ626NdC" width="100%" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
