@@ -11,8 +11,11 @@ Wordpress2016.overrideThemeStyles = () => {
     color: "#ff6e37",
  },
     "a": {
-      color: "#ff6e37 !important"
-    }
+      color: "#ff6e37"
+    },
+    ".title-first": {
+      color: "hsla(0,0%,0%,0.85) !important"
+    },
   };
 };
 

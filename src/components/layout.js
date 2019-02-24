@@ -19,7 +19,7 @@ class Layout extends React.Component {
         <h1
           className="flex items-center"
           style={{
-            ...scale(2.2),
+            ...scale(2),
             marginBottom: rhythm(1),
             marginTop: 0,
           }}
@@ -56,7 +56,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-          Kitchen / <span style={{color: 'tomato'}}>Funk</span>
+            <span className="title-first">Kitchen /</span> <span style={{color: 'tomato'}}>Funk</span>
           </Link>
         </h3>
       )
