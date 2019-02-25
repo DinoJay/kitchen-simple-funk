@@ -25,9 +25,7 @@ I really ask myself how do they got into that? The idea of the dancefloor as a s
 
 Its early idealism was soon to be caught by reality. Big Money, drug addiction sex work and AIDS found their way to the dancefloor. Young people today don't realize this, they were never part of the scene. The only thing which is remembered are the songs, these long extended percussive workouts full of funk, soul and the cry for freedom. On Youtube, some Disco tracks have more than 1 million plays which is impressive because they are tools for DJs not meant to be played on a Smartphone with these little ear plugs. Some people say that Disco is dead because it is de-contextualized and re-appropriated from its origin which was marginal, black and gay, thereby losing its soul and serving the big money machine of capitalism. Others say that Disco is still alive after all these years and creating a narrative for new artists, club goers and listeners.
 
-![Jan and Stephan]('./jan_stephan.jpg')
-
-As life is, the matter is complicated. But when I'm feeling down and low Disco kicks my ass and frees my mind. It makes me move forward and shows me what's possible in life. I hope for you, too. If not take listen to our show below ☟
+As life is, the matter is complicated. But when I'm feeling down and low Disco kicks my ass and frees my mind. It makes me move forward and shows me what's possible in life. I hope for you, too. If not take listen to our show below. Love and Peace!
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/574693548&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
