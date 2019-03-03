@@ -15,8 +15,7 @@ class Layout extends React.Component {
     let header
 
     if (location.pathname === rootPath) {
-      header = (
-        <h1
+      header = ( <h1
           className="flex items-center"
           style={{
             ...scale(2),
@@ -35,7 +34,10 @@ class Layout extends React.Component {
           >
             <span className="" style={{color: 'hsla(0,0%,0%,0.85)'}}>Kitchen /</span>  <br></br><span style={{color: 'tomato'}}>Funk
               <img className="m-1 pt-2" src="icons/pizza-slice.svg" style={{width: '1em', height: '1em', marginBottom: 0}}></img>
+
+              <img className="" src="icons/stickmen.svg" style={{width: '1em', height: '1em', marginBottom: 0}}></img>
               <img className="m-1 pt-2" src="icons/antenna.svg" style={{width: '1em', height: '1em', marginBottom: 0}}></img>
+
             </span>
           </Link>
         </h1>
