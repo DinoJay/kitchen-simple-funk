@@ -5,7 +5,7 @@ description: I'm Jan 30 years old, born in '88 and my colleague Stephan is 29 bo
 ---
 
 
-I'm Jan 30 years old, born in '88 and my colleague Stephan is 29 born one year later. We like music, sometimes too much. We listen to it while fighting with our Phd topics. Our days are spent  by digging through the vast world of music on the internet trying to find the one hidden gem. On other days we even eat from it quite literally and prepare a radio show (you witness it right now).
+Well, I'm Jan 30 years old, born in '88 and my colleague Stephan is 29 born one year later. We like music, sometimes too much. We listen to it while fighting with our Phd topics. Our days are spent  by digging through the vast world of music on the internet trying to find the one hidden gem. On other days we even eat from it quite literally and prepare a radio show (you witness it right now).
 
 > This is the first post to commemorate our radio show which happens monthly on Xlair radio. Don't expect anything
 > professional. We are bloody amateurs without a real agenda except for our conviction that our fascination for
