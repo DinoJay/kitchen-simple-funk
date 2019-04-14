@@ -24,7 +24,7 @@ function Bio() {
                 <div className="mr-3">&#127911;</div>
               </div>
               <div className="italic">
-                Our monthly radio show on <a title="XL Air radio" href="https://www.xlair.be/">XL Air Radio</a> presented by <strong>{author}</strong>. It's more about music than about cooking! But that doesn't mean we don't have any cheese!
+                Our monthly radio show on <a title="XL Air radio" href="https://www.xlair.be/">XL Air Radio</a> presented by <strong>{author}</strong>. It's more about music than about cooking! But that doesn't mean we don't have any taste!
                 {` `}
         </div>
           </div>
