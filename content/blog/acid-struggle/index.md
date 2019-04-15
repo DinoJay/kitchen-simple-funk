@@ -4,7 +4,8 @@ title: Acid Struggle
 date: 2019-04-14T22:40:32.169Z
 description: What does it take to define Acid House? Two bedroom DJs with not enough records but a lot of passion :-).
 ---
-<img height="515" width="100%" src="/acid-budda.png" style="object-fit:contain"></img>
+<img height="515" width="100%" src="/acid-budda.png" style="object-fit:cover"></img>
+
 What does it take to define Acid House? You might have noticed that we struggled a lot to answer that question in our new show. And you are right, it's really hard to keep up with all these sub-genres. There are too many of them. Every few years a new wave of artists comes along tagged with a new genre label.
 
 > Are <a href="https://en.wikipedia.org/wiki/Skrillex">Skrillex</a>, <a href="https://en.wikipedia.org/wiki/Diplo">Diplo</a> or <a href="https://en.wikipedia.org/wiki/David_Guetta">David Guetta</a> House? Nowadays, it is called EDM but the basic formula is the same for almost 40 years.
