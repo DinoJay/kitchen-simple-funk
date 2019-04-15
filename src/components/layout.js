@@ -32,7 +32,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            <span className="" style={{color: 'hsla(0,0%,0%,0.85)'}}>Kitchen /</span>  <br></br><span style={{color: 'tomato'}}>Funk
+            <span className="" style={{color: 'hsla(0,0%,0%,0.85)'}}>Kitchen /</span> <span style={{color: 'tomato'}}>Funk
               <img className="m-1 pt-2" src="icons/pizza-slice.svg" style={{width: '1em', height: '1em', marginBottom: 0}}></img>
 
               <img className="" src="icons/stickmen.svg" style={{width: '1em', height: '1em', marginBottom: 0}}></img>

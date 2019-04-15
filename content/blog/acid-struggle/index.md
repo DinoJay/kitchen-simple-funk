@@ -4,7 +4,6 @@ title: Acid Struggle
 date: 2019-04-14T22:40:32.169Z
 description: What does it take to define Acid House? Two bedroom DJs with not enough records but a lot of passion :-).
 ---
-
 <img height="515" width="100%" src="/acid-budda.png" style="object-fit:contain"></img>
 What does it take to define Acid House? You might have noticed that we struggled a lot to answer that question in our new show. And you are right, it's really hard to keep up with all these sub-genres. There are too many of them. Every few years a new wave of artists comes along tagged with a new genre label.
 
@@ -16,11 +15,11 @@ Soon after, they found an even more peculiar machine called <a href="https://en.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Xvj1q_L_3iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To be accurate, the TB-303 was already played on some other records before but its sound did not gain mainstream momentum.
-Already in 1979, the Indian film musician <a href="https://www.theguardian.com/music/2011/may/10/charanjit-singh-acid-house-ten-ragas">Charanjit Singh</a> used the machine extensively to fulfill his vision traditional Ragas on a disco beat.  In 1983, the new wave band Orange Juice featured the instrument in their seminal pop hit <a href="https://www.youtube.com/watch?v=QoqoxCr4054">'Rip it up'</a> whose cheerful summer vibe is as far from Acid House as it can get.
+Already in 1979, the Indian film musician <a href="https://www.theguardian.com/music/2011/may/10/charanjit-singh-acid-house-ten-ragas">Charanjit Singh</a> used the machine extensively to fulfill his vision traditional Ragas on a disco beat. In 1983, the new wave band Orange Juice featured the instrument in their seminal pop hit <a href="https://www.youtube.com/watch?v=QoqoxCr4054">'Rip it up'</a> whose cheerful summer vibe is as far from Acid House as it can get.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/BN8M2irJVJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Nonetheless, according to Wikipedia, the credits to go to <a href="https://www.discogs.com/artist/1705-Phuture">Phuture</a> and DJ Pierre as the inventors of the Acid sound. But as always, when a new music genre is born it's hard to point down to one specific person or group as originators. It was a collective effort which did not stop with just producing and publishing records. It was a whole new way of dealing with music, arts and life in general resulting in specific fashion style.
+Nonetheless, according to Wikipedia, the credits to go to <a href="https://www.discogs.com/artist/1705-Phuture">Phuture</a> and DJ Pierre as the inventors of the Acid sound. But as always, when a new music genre is born it's hard to point down to one specific person or group as originators. It was a collective effort which did not stop with just producing and publishing records. The drug ecstasy facilitated a whole new way of dealing with music, dance and the daily struggle of life in general.
 Later in the 80ies, things got a bit more complicated because House travelled to Detroit where some young producers, notably the <a href="https://en.wikipedia.org/wiki/The_Belleville_Three">Belleville Three</a> shaped the Techno sound under the influence of some early European electronic artists (Kraftwerk).
 In New York producers and DJs remembered the colorful Disco past of the city and formed  Garage House. I don't wanna recall the whole history of House (we can't be accurate) but DJs like <a href="https://www.skiddle.com/news/all/Tony-Humphries-Interview-New-Jersey-Connection/32128/">Tony Humphries</a> or labels such as <a href="https://www.discogs.com/label/608-Nu-Groove-Records">Nu-Groove</a>, <a href="https://www.discogs.com/label/609-Strictly-Rhythm">Strictly-Rhythm</a> hosted some of the finest House records in the decade full of soulful vocals and smooth chords but also some solid Acid bombs such as Bobby Konders' <a href="https://www.youtube.com/watch?v=ZkwoJvL_-Yc">Nervous Acid</a> which added some Dub and Dancehall vibes to the House formula.
 
