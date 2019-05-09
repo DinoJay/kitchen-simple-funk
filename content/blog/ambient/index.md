@@ -4,6 +4,8 @@ date: 2019-04-24T22:40:32.169Z
 description: Close your eyes and listen to the sounds around you. What do you hear? Maybe you are on the street...
 ---
 
+<img height="515" width="100%" src="/photo_00.jpg" style="object-fit:cover"></img>
+*(courtesy of Fcois)*
 
 Close your eyes and listen to the sounds around you. What do you hear? Maybe you are on the street
 and hear the traffic. Perhaps you are in the forest and you hear birds chirping. It could be that you hear
