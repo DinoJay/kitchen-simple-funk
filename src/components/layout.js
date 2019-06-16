@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 
-
 import bio from './bio';
 
 import { rhythm, scale } from "../utils/typography"
