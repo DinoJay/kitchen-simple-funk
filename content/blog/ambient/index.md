@@ -1,0 +1,39 @@
+---
+title: Hyperactive Ambient
+date: 2019-04-24T22:40:32.169Z
+description: Close your eyes and listen to the sounds around you. What do you hear? Maybe you are on the street...
+---
+
+<img height="515" width="100%" src="/photo_00.jpg" style="object-fit:cover;margin:0"></img>
+<span style="color:grey;font-style:italic">img courtesy of Fcois</span>
+
+Close your eyes and listen to the sounds around you. What do you hear? Maybe you are on the street
+and hear the traffic. Perhaps you are in the forest and you hear birds chirping. It could be that you hear
+the hum of your fridge. The sounds we hear around us - the ‘background noise’ - are part of the
+ambience of a location. A simple definition of ambient music would therefore be ‘background music’.
+And while this is partially true, ambient is so much more.
+Ambient music comes in many shapes and sizes, that all have one thing in common: they invoke a
+certain state of mind. Ambient can make you happy or sad. It can make you feel relaxed or agitated. It
+might make you relive a memory or have a vision of the future. This state of mind (or emotion/feeling, if
+you will) is achieved in a different way than most other types of music. Ambient usually does not rely on
+lyrics or melodic riffs, but instead uses slowly evolving soundscapes and diffuse harmonics to achieve
+the desired effect.
+
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vNwYtllyt3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+As with most genres of music, there are many different types of ambient music with their own specific
+characteristics. The focus often lies on the texture of the sound, which can be made using synthesizers,
+acoustic instruments or sampling nature or urban sounds. Delay and reverb effects are often generously
+used (watch out though: less is more) to give an atmospheric quality to the sound. Cascading pads or
+chanting vocals are also common. Ambient usually doesn’t have strong rhythmic components such as
+drums or sharp percussion, but many exceptions exist. Crossovers with techno, house and jungle are
+numerous, with notable early contributions being Aphex Twin’s Selected Ambient Works 85-92 and
+Biosphere’s Microgravity.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8ET1vST_xKc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/612258681&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
